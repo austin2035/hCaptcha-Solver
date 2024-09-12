@@ -1,3 +1,6 @@
+# This solver is very flagged and doesnt work, so dm me on telegram @dexv0 to buy a working one for any site
+
+
 <br/>
 <p align="center">
   <a href="https://github.com/DXVVAY">
